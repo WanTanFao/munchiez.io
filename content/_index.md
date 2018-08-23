@@ -9,7 +9,9 @@ theme = "munchiez"
 
 ---
 
-> "The best way to predict your future is to create it." -- Abraham Lincoln
+{{< slide id="good-times" background="gif31.gif" >}}
+
+### <mark>"The best way to predict your future is to create it." -- Abraham Lincoln</mark>
 
 {{% note %}}
 Here's to "why"...
@@ -19,42 +21,46 @@ Here's to "why"...
 
 {{% section %}}
 
-"What do you have to offer?"
+{{< slide id="the-unexpected" background="gif27.gif" >}}
+
+# <mark>What to expect</mark>
 
 ---
 
-{{< slide id="good-times" background="#FF4081" >}}
+{{< slide id="the-unexpected" background="gif11.gif" >}}
 
-### Good times
-
----
-
-### Experiences
+# <mark>Good times</mark>
 
 ---
 
-### The Unexpected
+{{< slide id="experiences" background="wall5.jpg" >}}
+
+# <mark>Adventures</mark>
 
 ---
 
-### Advice
+{{< slide id="experiences" background="gif7.gif" >}}
+
+# <mark>Experiences</mark>
 
 ---
 
-### New angles on old problems
+{{< slide id="the-unexpected" background="gif18.gif" >}}
+
+
+# <mark>The Unexpected</mark>
 
 ---
 
-### Help
+{{< slide id="things-done-right" background="gif12.gif" >}}
 
-- {{% fragment %}}Good times{{% /fragment %}}
-- {{% fragment %}}Experiences{{% /fragment %}}
-- {{% fragment %}}The unexpected{{% /fragment %}}
-- {{% fragment %}}Advice{{% /fragment %}}
-- {{% fragment %}}New angles on old problems{{% /fragment %}}
-- {{% fragment %}}Help{{% /fragment %}}
+# <mark>Things done right</mark>
 
 ---
+
+{{< slide id="good-times" background="gif4.gif" >}}
+
+## <mark>New angles on old problems</mark>
 
 {{% /section %}}
 
@@ -62,122 +68,57 @@ Here's to "why"...
 
 {{% section %}}
 
-"How can you live like that?"
+{{< slide id="good-times" background="wall6.jpg" >}}
 
 ---
 
-## Find your P[e,l]?ace
+{{< slide id="good-times" background="gif32.gif" background-size="cover" >}}
+
+# <mark>Embrace the process</mark>
 
 ---
 
-## You build it, you run it
+{{< slide id="good-times" background="gif39.gif" background-size="cover" >}}
+
+# <mark>Find your P[e,l]?ace</mark>
 
 ---
 
-## Go love yourself
+{{< slide id="good-times" background="gif40.gif" background-size="cover" >}}
+
+## <mark>Own your ideas</mark>
 
 ---
 
-### What got you here won't get you there
+{{< slide id="good-times" background="gif43.gif" background-size="cover" >}}
+
+# <mark>Go love yourself</mark>
 
 ---
 
-## No Drama
+{{< slide id="good-times" background="gif42.gif" background-size="cover" >}}
+
+### <mark>What got you here won't get you there</mark>
 
 ---
 
-## DOn't quIT
+{{< slide id="good-times" background="gif48.gif" background-size="cover" >}}
 
----
-
-## Why > What > How
+<!-- # <mark>DOn't quIT</mark>-->
 
 {{% /section %}}
 
 ---
 
-# #TAAS
+# munchiez.io
 
-**Team as a Service** - we're jumping in on your IT and Media projects on a project basis. Then we're gone.
+```
+Fabian Peter  
+Kirchenstr. 41  
+66798 Wallerfangen-Leidingen  
 
----
++49 6837 / 9999 040  
+hello@munchiez.io
+```
 
-# Useful Consulting
-
-We're not telling you what's *professional*, *fancy* or *must-have*. We're providing *useful* insights that actually help.
-We're also not interested in selling you anything, so we won't tell you what you want to hear.
-
----
-
-## Things we do very well
-
-* Software Defined Networking
-* Home- and IT-Security
-* Automation
-* Communication & Collaboration
-* Docker
-
-We recommend what we ❤  
-We implement what works
-
----
-
-{{% section %}}
-
-# Words we live by
-
-↓
-
----
-
-## Find your P[e,l]?ace
-
-Niemand kann dir sagen, wer oder was du bist, wie oder wie schnell du funktionierst. Das herauszufinden und dich mit allem was du hast einzubringen ist deine Aufgabe.
-
----
-
-## You build it, you run it
-
-Wir sitzen alle im selben Boot. Alles, was wir uns vornehmen und liegen lassen, bremst uns. Backlogs sind Gift. Erwarte nicht, dass jemand anderes hinter dir aufräumt oder dir den Weg freimacht. Bitte um Hilfe und Richtung, aber gehen musst du schon alleine.
-
----
-
-## Go love yourself
-
-Wie soll man andere lieben, wenn man sich selbst nicht liebt? Achte auf dich, übernimm dich nicht, finde deinen Rhythmus (siehe 1.), sei ehrlich zu dir selbst und anderen und versteh dich als Teil von einem Ganzen. Wir sind für dich da, also sei für uns da.
-
----
-
-### What got you here won't get you there
-
-Wir sind Läufer. Während alle anderen auf den Bus warten gehen wir vor. Was uns hierher gebracht hat, wird uns nicht ans Ziel bringen. Laufen kostet Überwindung, Energie und ist manchmal schmerzhaft - aber jeder Schritt macht dich fitter für den nächsten, jede Hürde die wir nehmen macht die nächste Hürde kleiner, jeder Stein über den wir stolpern lehrt uns aufzustehen. Nimm die Steigung, embrace the suck und wachse an dir selbst. Und wir wachsen alle mit.
-
----
-
-## No Drama
-
-Was gibt's da noch zu sagen? Drama bringt keinen weiter. Wenn der Schuh drückt, zieh ihn aus, finde raus wo's hängt und mach weiter - 5. = (3. + 2.) x 4. - Lass dir helfen und dich auffangen - wenn du andere mit etwas anstecken willst, dann lass es Liebe und Begeisterung sein.
-
----
-
-## DOn't quIT
-
----
-
-## Why > What > How
-
-Wir verfolgen Ziele, keine Prozesse. Das Was und Wohin ist wichtiger als das Wie. Das Was impliziert das Wie, denn das Was
-
-{{% /section %}}
-
----
-
-![Unifi](/ubnt.png)
-
-Software Defined Networking & Security
-
----
-
-![Unifi](/ubnt.png)
-
-Software Defined Networking & Security
+#humanrelations #socialenterprise
