@@ -5,7 +5,7 @@ outputs = ["Reveal"]
 theme = "munchiez"
 +++
 
-![munchiez.io id=munchiez-logo](/munchiez-logo-hugo.png)
+{{< slide id="home" background="munchiez-logo-gif.gif" >}}
 
 ---
 
