@@ -115,10 +115,16 @@ Here's to "why"...
 ```
 Fabian Peter  
 Kirchenstr. 41  
-66798 Wallerfangen-Leidingen  
+66798 Wallerfangen-Leidingen
+Saarland
 
 +49 6837 / 9999 040  
 hello@munchiez.io
 ```
 
-#humanrelations #socialenterprise
+#humanrelations #socialenterprise #saarland
+
+* TICK Stack
+* Docker
+* CI/CD
+* Security
