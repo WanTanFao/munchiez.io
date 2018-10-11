@@ -5,7 +5,7 @@ outputs = ["Reveal"]
 theme = "munchiez"
 +++
 
-{{< slide id="home" background="munchiez-logo-gif.gif" >}}
+{{< slide id="home" background="wp.png" >}}
 
 ---
 
